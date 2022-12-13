@@ -1,0 +1,253 @@
+  .cadastro{
+    color: white;
+    margin-left: 855px;
+    font-family: 'Barlow Semi Condensed';
+    font-size: 30px;
+    margin-top: 50px;
+    display: flex;
+   }
+  
+  .fotoperfil{
+    color: white;
+    margin-left: 830px;
+    cursor: pointer;
+   }
+  
+  .foto{
+    margin-left: 860px;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+  }
+  
+  .primeiracoluna {
+    width: 500px;
+    height: 32px;
+    margin-left: 350px;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.1rem;
+  }
+  
+  .primeiracoluna input {
+    margin: 0.2rem 0;
+    padding: 10px;
+    width: 520px;
+    border: #ffffff;
+    border-style: solid;
+    border-radius: 50px;
+    background-color: transparent;
+    color: #ffffff;
+    font-family: 'economica';
+    font-size: 25px;
+    display: flex;
+    border: 5px solid;
+    padding-inline-start: 20px;
+    padding-inline-end: 20px;
+  }
+  
+.segundacoluna{
+  width: 500px;
+  height: 32px;
+  margin-left: 1050px;
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.1rem;
+  
+}
+.segundacoluna input {
+  margin: 0.2rem 0;
+  padding: 10px;
+  width: 520px;
+  border: #ffffff;
+  border-style: solid;
+  border-radius: 50px;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'economica';
+  font-size: 25px;
+  border: 5px solid;
+  display: flex;
+  padding-inline-start: 20px;
+  padding-inline-end: 20px;
+}
+
+.coluna2{
+  margin-top: -336px;
+}
+
+
+.titulogen{
+  color: white;
+  font-size: 40px;
+  margin-left: 1050px;
+}
+
+.data{
+  width: 520px;
+  margin-left: 1050px;
+  margin-top: 71px;
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+}
+
+.data input{
+  margin: 0.6rem 0;
+  padding: 10px;
+  border-style: solid;
+  border-radius: 50px;
+  border-color: #ffffff;
+  border: 5px solid;
+  font-size: 25px;
+  background-color: transparent;
+  color: white;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.botaoentrar {
+  color: #ffffff;
+  background-color: #e80411;
+  font-size: 30px;
+  font-style: bold;
+  align-items: center;
+  justify-content: left;
+  margin-left: 780px;
+  margin-top: 80px;
+  width: 350px;
+  height: 50px;
+  border-radius: 30px;
+  border-color: transparent;
+  font-family: 'economica';
+  cursor: pointer;
+}
+
+.botaoentrar:hover {
+  background-color: #e80411;
+}
+
+.botaoentrar:active {
+  background-color: #bd0009;
+  color: rgb(255, 255, 255);
+  box-shadow: 1px 1px 0.5px rgb(194, 38, 38);
+}
+
+.confirmarsenha{
+  width: 500px;
+  height: 32px;
+  margin-left: 1050px;
+  margin-top: 45px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.1rem;
+}
+  .confirmarsenha input {
+    margin: 0.2rem 0;
+    padding: 10px;
+    width: 520px;
+    border: #ffffff;
+    border-style: solid;
+    border-radius: 50px;
+    background-color: transparent;  
+    color: #ffffff;
+    font-family: 'economica';
+    font-size: 25px;
+    border: 5px solid;
+    padding-inline-start: 20px;
+  }
+  
+  
+    /* Error and Success */
+    .form-control.success input {
+      border-color: #2ecc71;
+    }
+  
+    .form-control.error input {
+      border-color: #e74c3c;
+    }
+  
+    .form-control.success .divInput .sucesso {
+      /* visibility: visible; */
+      display: block;
+    }
+  
+    .form-control.error .divInput .erro {
+      display: block;
+      /* visibility: visible; */
+    }
+  
+    .form-control.error small {
+      /* visibility: visible; */
+      display: block;
+    }
+  
+    .form-control.errsuccessor .divInput select {     
+      border-color: #2ecc71; 
+    } 
+  
+    .form-control.error .divInput select {     
+      border-color: #e74c3c; 
+    } 
+
+    .smallcoluna1 {
+      /* visibility: hidden;  */
+      display: none;
+      color: #e74c3c; 
+      font-size: 1.6rem;
+      position: absolute;
+      margin-left: 350px;
+      margin-top: 15px;
+    }
+
+    .smallcoluna2 {
+      /* visibility: hidden;  */
+      display: none;
+      color: #e74c3c; 
+      font-size: 1.6rem;
+      position: absolute;
+      margin-left: 1055px;
+      margin-top: 15px;
+    }
+
+    .smallnascimento {
+      /* visibility: hidden;  */
+      display: none;
+      color: #e74c3c; 
+      font-size: 1.6rem;
+      position: absolute;
+      margin-left: 1055px;
+      margin-top: -6px;
+    }
+
+    
+  .sucesso {
+    /* position: absolute;
+    right: 20%;  */
+    display: none;
+    margin-left: 0.5rem; 
+    font-size: 2.7rem;
+    color: #2ecc71;
+  }
+  
+  .erro {
+    /* visibility: hidden; */
+    display: none;
+    margin-left: 0.5rem; 
+    font-size: 2.7rem;
+    color: #e74c3c;
+  }
+
+  .jatenholog{
+    margin-left: 865px;
+    margin-top: 20px;
+    font-size: 25px;
+    text-decoration: underline;
+  }
+
+  .jatenhologlink{
+    color: #fff;
+    font-size: 25px;
+    text-decoration: underline;
+  }

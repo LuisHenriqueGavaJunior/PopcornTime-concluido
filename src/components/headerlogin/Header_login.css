@@ -1,0 +1,86 @@
+.Cabecalho {
+    z-index: 3;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    color: #fff;
+    background-image: linear-gradient( to right, #D00000, #009A9A );
+    display: inline-flex;
+    padding: 20px;
+    height: 200px;
+    top: 0px;
+    position: fixed;
+  }
+
+  .Popcorntime{
+    font-size: 70px;
+    margin-left: 10px;
+    margin-top: 35px;
+    color: white;
+    text-decoration: none;
+  }
+
+  .user_header{
+    font-size: 30px;
+    margin-top: 65px;
+    margin-left: 80px;
+    text-align: center;
+    position: fixed;
+    cursor: pointer;
+    color: #000000;
+    box-sizing: border-box;
+    border-radius: 10px;
+  }
+
+  .ft_header{
+    width: 130px;
+    height: 130px;
+    margin-top: 15px;
+    margin-left: 250px;
+    position: fixed;
+    cursor: pointer;
+  }
+
+  .Pesquisa{
+  height: 50px;
+  width: 800px;
+  border: 3px solid #000000;
+  border-radius: 30px;
+  margin-top: 60px;
+  margin-left: 30px;
+  font-size: 40px;
+  font-family: Economica;
+  padding: 20px;
+  }
+
+  .Pipoca{
+  position: left;
+  width: 160px;
+  height: 150px;
+  }
+
+  .Pesquisabotao{
+  width: 50px;
+  height: 40px;
+  margin-top: 64px;
+  margin-left: -60px;
+  position: fixed;
+  cursor: pointer;
+  background-color: transparent;
+  border-color: transparent;
+  border-radius: 30px;
+  }
+
+  #lupa{
+  width: 35px;
+  height: 35px;
+  }
+
+  #Popcorntime, a{
+  text-decoration: none;
+  }
+
+  .user_header{
+    color: #fff;
+  }

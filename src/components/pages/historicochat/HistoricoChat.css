@@ -1,0 +1,309 @@
+.icon_user1{
+    position: fixed;
+    width: 90px;
+    height: 90px;
+    margin-left: 595px;
+    margin-top: 70px;
+    cursor: pointer;
+}
+  
+.nome_user1{
+    position: fixed;
+    margin-left: 710px;
+    margin-top: 80px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 41px;
+    color: #eeeeee;
+}
+  
+.status1{
+    position: fixed;
+    width: 380px;
+    height: 35px;
+    margin-left: 710px;  
+    margin-top: 113px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    color: #eeeeee;
+}
+  
+.icon_user2{
+    position: fixed;
+    width: 90px;
+    height: 90px;
+    margin-left: 595px;
+    margin-top: 210px;
+    cursor: pointer;
+}
+  
+.nome_user2{
+    position: fixed;
+    margin-left: 710px;
+    margin-top: 220px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 41px;
+    color: #eeeeee;
+}
+  
+.status2{
+    position: fixed;
+    width: 380px;
+    height: 35px;
+    margin-left: 710px;
+    margin-top: 253px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    color: #eeeeee;
+}
+  
+.icon_user3{
+    position: fixed;
+    width: 90px;
+    height: 90px;
+    margin-left: 595px;
+    margin-top: 355px;
+    cursor: pointer;
+}
+  
+.nome_user3{
+    position: fixed;
+    margin-left: 710px;
+    margin-top: 365px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 41px;
+    color: #eeeeee;
+}
+  
+.status3{
+    position: fixed;
+    width: 380px;
+    height: 35px;
+    margin-left: 710px;
+    margin-top: 398px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    color: #eeeeee;
+}
+  
+.icon_user4{
+    position: fixed;
+    width: 90px;
+    height: 90px;
+    margin-left: 595px;
+    margin-top: 500px;
+    cursor: pointer;
+}
+  
+.nome_user4{
+    position: fixed;
+    margin-left: 710px;
+    margin-top: 510px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 41px;
+    color: #eeeeee;
+}
+  
+.status4{
+    position: fixed;
+    width: 380px;
+    height: 35px;
+    margin-left: 710px;
+    margin-top: 543px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    color: #eeeeee;
+}
+  
+.icon_user5{
+    position: fixed;
+    width: 90px;
+    height: 90px;
+    margin-left: 595px;
+    margin-top: 643px;
+    cursor: pointer;
+}
+  
+.nome_user5{
+    position: fixed;
+    margin-left: 710px;
+    margin-top: 653px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 41px;
+    color: #eeeeee;
+}
+  
+.status5{
+    position: fixed;
+    width: 380px;
+    height: 35px;
+    margin-left: 710px;
+    margin-top: 686px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    color: #eeeeee;
+}
+  
+.icon_user6{
+    position: fixed;
+    width: 90px;
+    height: 90px;
+    margin-left: 1100px;
+    margin-top: 70px;
+    cursor: pointer;
+}
+  
+.nome_user6{
+    position: fixed;
+    margin-left: 1220px;
+    margin-top: 80px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 41px;
+    color: #eeeeee;
+}
+  
+.status6{
+    position: fixed;
+    width: 380px;
+    height: 35px;
+    margin-left: 1220px;
+    margin-top: 113px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    color: #eeeeee;
+}
+
+.icon_user7{
+    position: fixed;
+    width: 90px;
+    height: 90px;
+    margin-left: 1100px;
+    margin-top: 210px;
+    cursor: pointer;
+}
+  
+.nome_user7{
+    position: fixed;
+    margin-left: 1220px;
+    margin-top: 220px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 41px;
+    color: #eeeeee;
+}
+  
+.status7{
+    position: fixed;
+    width: 380px;
+    height: 35px;
+    margin-left: 1220px;
+    margin-top: 253px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    color: #eeeeee;
+}
+
+.icon_user8{
+    position: fixed;
+    width: 90px;
+    height: 90px;
+    margin-left: 1100px;
+    margin-top: 355px;
+    cursor: pointer;
+}
+  
+.nome_user8{
+    position: fixed;
+    margin-left: 1220px;
+    margin-top: 365px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 41px;
+    color: #eeeeee;
+}
+  
+.status8{
+    position: fixed;
+    width: 380px;
+    height: 35px;
+    margin-left: 1220px;
+    margin-top: 398px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    color: #eeeeee;
+}
+
+.icon_user9{
+    position: fixed;
+    width: 90px;
+    height: 90px;
+    margin-left: 1100px;
+    margin-top: 500px;
+    cursor: pointer;
+}
+  
+.nome_user9{
+    position: fixed;
+    margin-left: 1220px;
+    margin-top: 510px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 41px;
+    color: #eeeeee;
+}
+  
+.status9{
+    position: fixed;
+    width: 380px;
+    height: 35px;
+    margin-left: 1220px;
+    margin-top: 543px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    color: #eeeeee;
+}
+
+.icon_user10{
+    position: fixed;
+    width: 90px;
+    height: 90px;
+    margin-left: 1100px;
+    margin-top: 643px;
+    cursor: pointer;
+}
+  
+.nome_user10{
+    position: fixed;
+    margin-left: 1220px;
+    margin-top: 653px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 41px;
+    color: #eeeeee;
+}
+  
+.status10{
+    position: fixed;
+    width: 380px;
+    height: 35px;
+    margin-left: 1220px;
+    margin-top: 686px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    color: #eeeeee;
+}

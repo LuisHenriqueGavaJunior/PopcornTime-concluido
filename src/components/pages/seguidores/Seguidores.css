@@ -1,0 +1,153 @@
+.caixa1 {
+    border: 3px solid #ffffff;
+    padding: 20px;
+    text-align: center;
+    background: #000000;
+    height: 50px;
+    width: 700px;
+    color: #eeeeee;
+    z-index: '4';
+    position: fixed;
+    margin-left: 670px;
+    margin-top: 8px;
+}
+  
+.seg1{
+    color: #d00000;
+    font-size: 24px;
+    margin-top: -12px;
+    margin-left: 80px !important;
+    z-index: 1;
+    width: 200px;
+    position: static;
+    text-decoration: none;
+    font-weight: 1000;
+}
+
+.seg2{
+    font-size: 24px;
+    margin-top: -45px;
+    margin-left: 270px !important;
+    z-index: 1;
+    position: static;
+    font-weight: 1000;
+}
+
+.link_seguidores{
+    text-decoration: none;
+    color: #eeeeee;
+}
+  
+.seg2:active {
+    color: #d00000;
+}
+
+.flexavoltar{
+    position: static;
+    width: 50px;
+    height: 49px;
+    margin-left: 530px;
+    margin-top: 12px;
+}
+  
+.seguidor1{
+    box-sizing: content-box;
+    position: static;
+    width: 470px;
+    height: 110px;
+    margin-top: 100px;
+    margin-left: 180px;
+}
+
+.seg_icon{
+    position: fixed;
+    width: 90px;
+    height: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.seg_nome{
+    position: fixed;
+    margin-left: 120px;
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 41px;
+    color: #eeeeee;
+}
+
+.seg_usu{
+    position: fixed;
+    width: 380px;
+    height: 35px;
+    margin-left: 130px;
+    margin-top: 50px;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    color: #eeeeee;
+}
+
+.botao_remover{
+    position: fixed;
+    width: 115px;
+    height: 30px;
+    margin-left: 355px;
+    margin-top: 40px;
+    background: #d00000;
+    mix-blend-mode: normal;
+    border: transparent;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+    color: #ffffff;
+    cursor: pointer;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.botao_remover:active {
+    background-color: #c41111;
+    color: #ffffff;
+    box-shadow: 2px 2px 2px #af0505;
+  }
+  
+.botao_remover:focus {
+    background: #af0505;
+}
+
+.seguidor2{
+    box-sizing: content-box;
+    position: static;
+    width: 470px;
+    height: 110px;
+    margin-top: 10px;
+    margin-left: 180px;
+}
+
+.seguidor3{
+    box-sizing: content-box;
+    position: static;
+    width: 470px;
+    height: 110px;
+    margin-top: 10px;
+    margin-left: 180px;
+}
+
+.seguidor4{
+    box-sizing: content-box;
+    position: static;
+    width: 470px;
+    height: 110px;
+    margin-top: 10px;
+    margin-left: 180px;
+}
+
+.seguidor5{
+    box-sizing: content-box;
+    position: static;
+    width: 470px;
+    height: 110px;
+    margin-top: 10px;
+    margin-left: 180px;
+}

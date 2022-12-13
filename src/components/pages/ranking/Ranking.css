@@ -1,0 +1,328 @@
+.ranking{
+    position: absolute;
+    width: 200px;
+    height: 57px;
+    margin-left: 950px;
+    margin-top: 10px;
+    font-weight: 1000;
+    font-size: 48px;
+    color: #eeeeee;
+  }
+
+  .containerr{
+    background-color: #009a9a;
+    color:#eeeeee;
+    width: 220px;
+    height: 150px;
+    margin-top: 75px;
+    margin-left: 1300px;
+    position: fixed;
+    border-radius: 10px;
+    display: none;
+  }
+
+  .titulo_instrucao{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 18px;
+  }
+
+  .texto_instrucao{
+    margin-top: -27px !important;
+    padding: 10px;
+    font-weight: 500;
+    font-size: 15px;
+  }
+  
+  .primeirolugar{
+    position: absolute;
+    width: 200px;
+    height: 205px;
+    margin-left: 920px;
+    margin-top: 260px;
+    background: #009a9a;
+    font-size: 90px;
+    color: #000000;
+    font-family: 'calibri';
+    text-align: center;
+    border-radius: 5px 5px 0px 0px;
+  }
+  
+  .segundolugar{
+    position: absolute;
+    width: 200px;
+    height: 132px;
+    margin-left: 720px;
+    margin-top: 333px;
+    background: #009a9a;
+    font-size: 70px;
+    color: #000000;
+    font-family: 'calibri';
+    text-align: center;
+    border-radius: 5px 0px 0px 5px;
+  }
+  
+  .terceirolugar{
+    position: absolute;
+    width: 200px;
+    height: 80px;
+    margin-left: 1120px;
+    margin-top: 385px;
+    background: #009a9a;
+    font-size: 40px;
+    color: #000000;
+    font-size: 50px;
+    color: #000000;
+    font-family: 'calibri';
+    text-align: center;
+    border-radius: 0px 5px 5px 0px;
+  }
+  
+  .icon1{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 970px;
+    margin-top: 110px;
+  }
+  
+  .name_usuario1{
+    position: absolute;
+    margin-top: 225px;
+    margin-left: 943px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #eeeeee;
+  }
+  
+  .fundo_level1{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin-left: 1040px;
+    margin-top: 170px;
+    border-radius: 40px;
+    background: #d00000;
+  }
+  
+  .level1{
+    position: absolute;
+    font-size: 16px;
+    color: #eeeeee;
+    margin-top: 16px;
+    margin-left: 10px;
+  }
+  
+  .icon2{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 778px;
+    margin-top: 180px;
+  }
+  
+  .name_usuario2{
+    position: absolute;
+    margin-top: 298px;
+    margin-left: 745px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #eeeeee;
+  }
+  
+  .fundo_level2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin-left: 846px;
+    margin-top: 240px;
+    border-radius: 40px;
+    background: #d00000;
+  }
+  
+  .level2{
+    position: absolute;
+    font-size: 16px;
+    color: #eeeeee;
+    margin-top: 16px;
+    margin-left: 10px;
+  }
+  
+  .icon3{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 1170px;
+    margin-top: 235px;
+  }
+  
+  .name_usuario3{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 1143px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #eeeeee;
+  }
+  
+  .fundo_level3{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin-left: 1240px;
+    margin-top: 295px;
+    border-radius: 40px;
+    background: #d00000;
+  }
+  
+  .level3{
+    position: absolute;
+    font-size: 16px;
+    color: #eeeeee;
+    margin-top: 16px;
+    margin-left: 10px;
+  }
+  
+  .lvl1{
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    margin-left: 825px;
+    margin-top: 550px;
+    border-radius: 40px;
+    background: #d00000;
+  }
+  
+  .num1{
+    position: absolute;
+    font-size: 22px;
+    color: #eeeeee;
+    margin-top: 6px;
+    margin-left: 18px;
+  }
+  
+  .icone1{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    margin-left: 940px;
+    margin-top: 525px;
+  }
+  
+  .name_user1{
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 1060px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #eeeeee;
+  }
+  
+  .lvl2{
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    margin-left: 825px;
+    margin-top: 680px;
+    border-radius: 40px;
+    background: #d00000;
+  }
+  
+  .num2{
+    position: absolute;
+    font-size: 22px;
+    color: #eeeeee;
+    margin-top: 6px;
+    margin-left: 18px;
+  }
+  
+  .icone2{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    margin-left: 940px;
+    margin-top: 655px;
+  }
+  
+  .name_user2{
+    position: absolute;
+    margin-top: 680px;
+    margin-left: 1060px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #eeeeee;
+  }
+  
+  .lvl3{
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    margin-left: 825px;
+    margin-top: 820px;
+    border-radius: 40px;
+    background: #d00000;
+  }
+  
+  .num3{
+    position: absolute;
+    font-size: 22px;
+    color: #eeeeee;
+    margin-top: 6px;
+    margin-left: 18px;
+  }
+  
+  .icone3{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    margin-left: 940px;
+    margin-top: 790px;
+  }
+  
+  .name_user3{
+    position: absolute;
+    margin-top: 820px;
+    margin-left: 1060px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #eeeeee;
+  }
+  
+  .lvl4{
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    margin-left: 825px;
+    margin-top: 960px;
+    border-radius: 40px;
+    background: #d00000;
+  }
+  
+  .num4{
+    position: absolute;
+    font-size: 22px;
+    color: #eeeeee;
+    margin-top: 6px;
+    margin-left: 18px;
+  }
+  
+  .icone4{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    margin-left: 940px;
+    margin-top: 930px;
+  }
+  
+  .name_user4{
+    position: absolute;
+    margin-top: 960px;
+    margin-left: 1060px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #eeeeee;
+  }
+  
+  .link_nome{
+    text-decoration: transparent;
+  }
